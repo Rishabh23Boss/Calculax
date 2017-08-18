@@ -37,7 +37,7 @@ android {
     buildToolsVersion "25.0.3"
 
     defaultConfig {
-        applicationId "com.calculax"
+        applicationId "r.calculax"
         minSdkVersion 11
         targetSdkVersion 25
         versionCode 2
